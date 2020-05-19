@@ -7,16 +7,18 @@
     <Authors>Matthew King</Authors>
     <Copyright>Copyright Matthew King.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/MatthewKing/WinFormsAppHost</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/maikebing/WinFormsAppHost</PackageProjectUrl>
     <RepositoryUrl>https://github.com/MatthewKing/WinFormsAppHost</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>winforms windows forms generic host lifetime hosting</PackageTags>
+    <PackageTags>winforms windows forms generic host lifetime hosting startup</PackageTags>
     <VersionPrefix>0.1.0</VersionPrefix>
   </PropertyGroup>
 
   <PropertyGroup>
     <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     <UseWindowsForms>true</UseWindowsForms>
+    <Company>Matthew King</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
