@@ -1,6 +1,6 @@
-# Windows Forms Generic Host
+# Windows Forms Applaction  Host
 
-WindowsFormsGenericHost is a simple library that allows you to use the [.NET Generic Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host) model with Windows Forms applications, on both .NET Core and .NET Framework.
+WinFormsAppHost is a simple library that allows you to use the [.NET Generic Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host) model with Windows Forms applications, on both .NET Core and .NET Framework.this project is base on https://github.com/MatthewKing/WindowsFormsGenericHost
 
 ## Quickstart
 
